@@ -1,0 +1,85 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color:aqua;
+	padding: 20px;
+	text-align: left;
+	
+    
+}
+
+.profile-picture {
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+	margin: 10px;
+	display: flex;
+}
+
+nav {
+	background-color: #fff;
+	padding: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 10px;
+	
+}
+
+
+a{
+	margin: 200px;
+	color: black;
+	font-size: x-large;
+	
+}
+.login-form {
+	width: 300px;
+	background-color: #a71111;
+	background-image: url();
+	padding: 20px;
+	border: 1px solid #ddd;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	margin: 40px auto; /* add this line to center the form horizontally */
+	text-align: left; /* add this line to align the form to the left */
+  }
+  .login-form {
+	text-align: center;
+	font-size: large;
+	
+  }
+  #sub{
+	font-size: large;
+  }
+#prg{
+	margin-left: 400px;
+	font-size: xx-large;
+	
+}
+p{
+	font-size: x-large ;
+	margin: 50px;
+}
+
+.special{
+	font-size: x-large,bold;
+	margin: 50px;
+}
+ol{
+	margin: 50px;
+	font-size: larger;
+}
+#bit{
+	max-width: 50%;
+	height: auto;
+	display: block;
+	
+}
+#kk{
+	font-size: xx-large;
+}
